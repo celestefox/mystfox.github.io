@@ -2,7 +2,6 @@
 layout: post
 title:  "Fuck Terminal Emulators"
 date:   2016-12-12 02:54:18 -0700
-categories: tech horribleness terminal terminal_emulators
 ---
 
 # Overview of terminal emulators and brokenness
